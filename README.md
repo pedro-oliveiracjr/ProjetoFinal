@@ -1,2 +1,2 @@
 # ProjetoFinal
-Repo da disciplina
+Repo do projeto final
