@@ -1,3 +1,3 @@
 #stdio.h
 
-int duty;
+
